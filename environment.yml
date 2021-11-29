@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - vtk
+  - numpy
+  - pillow
+  - pip
+  - pip:
+    - triangle
+    - opencv-python
