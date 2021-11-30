@@ -5,4 +5,4 @@ Based on the [MeshCNN](https://ranahanocka.github.io/MeshCNN/) Cube Engravings d
 
 This code was created based on scripts provided by Amir Hertz (original author of MeshCNN)
 
-The .zip file contains a 4k examples generated dataset where each cube was engraved with 2 (not necessarily different) 2 classes.
+The .zip file contains a 4k examples generated dataset where each cube was engraved with 2 (not necessarily different) classes.
